@@ -1,0 +1,19 @@
+{
+    "name": "felipemenezesdm/laravel-commons",
+    "description": "Recursos genéricos para projetos Laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Menezes",
+            "email": "contato@felipemenezes.com.br"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
