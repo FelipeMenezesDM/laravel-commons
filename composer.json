@@ -7,7 +7,7 @@
             "FelipeMenezesDM\\LaravelCommons\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Felipe Menezes",
