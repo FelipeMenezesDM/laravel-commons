@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\Enums;
+namespace FelipeMenezesDM\LaravelCommons\Enums;
 
 enum HttpStatusCode : int
 {
