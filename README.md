@@ -15,4 +15,4 @@ composer require felipemenezesdm/laravel-commons
 ## Links úteis
 
 - [Laravel Commons on GitHub](https://github.com/FelipeMenezesDM/laravel-commons)
-- [Laravel Commons on Packgist](https://packagist.org/packages/felipemenezesdm/laravel-commons)
+- [Laravel Commons on Packagist](https://packagist.org/packages/felipemenezesdm/laravel-commons)
