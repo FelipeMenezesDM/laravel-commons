@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Utils;
+namespace FelipeMenezesDM\LaravelCommons\Utils;
 
 class StringUtils
 {
